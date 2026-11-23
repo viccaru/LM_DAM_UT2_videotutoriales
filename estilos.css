@@ -1,0 +1,17 @@
+body {
+    background-color:rgb(231, 236, 238);
+  }
+h1 {
+    color:darkslategray;
+    text-align:center;
+    font-size: 2.5em;
+    }
+h2, h3 {
+    color:rgb(121, 83, 149);
+    font-weight: 800;
+    font-size: 1.5em;
+}
+li {
+    color:rgb(59, 85, 122);
+    font-weight: 400;
+}
